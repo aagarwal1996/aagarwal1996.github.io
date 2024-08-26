@@ -277,12 +277,6 @@ defaults:
       author_profile: true
       share: true
 
-nav:
-  - title: "About"
-    url: /about/
-  - title: "Papers"
-    url: /_papers/
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
