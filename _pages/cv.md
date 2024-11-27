@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV [here](/assets/pdf/AgarwalCV_Sep24.pdf)
+You can find my CV [here](/assets/pdf/CV.pdf)
