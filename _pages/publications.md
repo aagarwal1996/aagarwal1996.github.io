@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=8282541233&hl=en) Note \* denotes equal contribution. 
+You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=8282541233&hl=en) Note \* denotes **equal contribution**. 
 
 * [SPEX: Scaling Feature Interaction Explanations for LLMs](https://arxiv.org/abs/2502.13870)<br>
   Justin Singh Kang, Landon Butler, **Abhineet Agarwal<sup>*</sup>**, Yigit Efe Erginbas, Ramtin Pedarsani, Kannan Ramchandran, Bin Yu 
