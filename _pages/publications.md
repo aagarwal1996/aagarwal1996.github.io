@@ -31,7 +31,7 @@ Justin Kang\*, Landon Butler\*, **Abhineet Agarwal<sup>*</sup>**, Yigit Efe Ergi
   Venue: **Proceedings of the National Academy of Sciences (PNAS), 2024**
 
 * [MDI+: A Flexible Random Forest-Based Feature Importance Framework](https://arxiv.org/abs/2307.01932)<br>
-  **Abhineet Agarwal<sup>*</sup>***, Ana Kenney\*, Yan Shuo Tan\*, Tiffany Tang\*, Bin Yu \
+  **Abhineet Agarwal<sup>*</sup>**, Ana Kenney\*, Yan Shuo Tan\*, Tiffany Tang\*, Bin Yu \
   Venue: Submitted to **Journal of the American Statistical Association (JASA), 2023**
 
 * [Epistasis regulates genetic control of cardiac hypertrophy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10659487/)<br>
