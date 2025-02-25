@@ -8,7 +8,7 @@ author_profile: true
 You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=8282541233&hl=en) Note \* denotes **equal contribution**. 
 
 * [SPEX: Scaling Feature Interaction Explanations for LLMs](https://arxiv.org/abs/2502.13870)<br>
-Justin Kang, Landon Butler, **Abhineet Agarwal<sup>*</sup>**, Yigit Efe Erginbas, Ramtin Pedarsani, Kannan Ramchandran, Bin Yu 
+Justin Kang<sup>*</sup>*, Landon Butler<sup>*</sup>*, **Abhineet Agarwal<sup>*</sup>**, Yigit Efe Erginbas, Ramtin Pedarsani, Kannan Ramchandran, Bin Yu 
   
 * [Multi-Armed Bandits with Network Interference](https://arxiv.org/abs/2405.18621)<br>
   **Abhineet Agarwal**, Anish Agarwal, Lorenzo Masoero, Justin Whitehouse. \
@@ -31,7 +31,7 @@ Justin Kang, Landon Butler, **Abhineet Agarwal<sup>*</sup>**, Yigit Efe Erginbas
   Venue: **Proceedings of the National Academy of Sciences (PNAS), 2024**
 
 * [MDI+: A Flexible Random Forest-Based Feature Importance Framework](https://arxiv.org/abs/2307.01932)<br>
-  **Abhineet Agarwal**, Ana Kenney, Yan Shuo Tan, Tiffany Tang, Bin Yu \
+  **Abhineet Agarwal<sup>*</sup>***, Ana Kenney<sup>*</sup>*, Yan Shuo Tan<sup>*</sup>*, Tiffany Tang<sup>*</sup>*, Bin Yu \
   Venue: Submitted to **Journal of the American Statistical Association (JASA), 2023**
 
 * [Epistasis regulates genetic control of cardiac hypertrophy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10659487/)<br>
