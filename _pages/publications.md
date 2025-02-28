@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=8282541233&hl=en) Note \* denotes **equal contribution**. 
+You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=8282541233&hl=en). Note \* denotes **equal contribution**. 
 
 * [SPEX: Scaling Feature Interaction Explanations for LLMs](https://arxiv.org/abs/2502.13870)<br>
-Justin Kang\*, Landon Butler\*, **Abhineet Agarwal<sup>*</sup>**, Yigit Efe Erginbas, Ramtin Pedarsani, Kannan Ramchandran, Bin Yu 
+Justin Kang\*, Landon Butler\*, **Abhineet Agarwal<sup>*</sup>**, Yigit Erginbas, Ramtin Pedarsani, Kannan Ramchandran, Bin Yu 
   
 * [Multi-Armed Bandits with Network Interference](https://arxiv.org/abs/2405.18621)<br>
   **Abhineet Agarwal**, Anish Agarwal, Lorenzo Masoero, Justin Whitehouse. \
