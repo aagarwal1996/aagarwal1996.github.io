@@ -27,8 +27,8 @@ Justin Kang\*, Landon Butler\*, **Abhineet Agarwal<sup>*</sup>**, Yigit Efe Ergi
   Venue: **NeurIPS, 2023**, extended version in submission to **Econometrica**
 
 * [Fast Interpretable Greedy Tree Sums (FIGS)](https://www.pnas.org/doi/10.1073/pnas.2310151122)<br>
-  **Abhineet Agarwal**, et al. \
-  Venue: **Proceedings of the National Academy of Sciences (PNAS), 2024**
+  Yan Shuo Tan\*, Chandan Singh\*, Keyan Nasseri\*, **Abhineet Agarwal<sup>*</sup>**, et al. \
+  Venue: **Proceedings of the National Academy of Sciences (PNAS), 2025**
 
 * [MDI+: A Flexible Random Forest-Based Feature Importance Framework](https://arxiv.org/abs/2307.01932)<br>
   **Abhineet Agarwal<sup>*</sup>**, Ana Kenney\*, Yan Shuo Tan\*, Tiffany Tang\*, Bin Yu \
