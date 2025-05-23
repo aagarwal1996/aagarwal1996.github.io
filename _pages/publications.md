@@ -5,18 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=8282541233&hl=en). Note \* denotes **equal contribution**. 
+You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=8282541233&hl=en). Note \* denotes **equal contribution** with order determined by coin flip. 
 
+
+
+* [ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs](Link Forthcoming)<br>
+ Landon Butler\*, **Abhineet Agarwal<sup>*</sup>**, Justin Kang\*, Yigit Erginbas, Bin Yu, Kannan Ramchandran
+
+* [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Franework](https://arxiv.org/abs/2505.08784)<br>
+**Abhineet Agarwal<sup>*</sup>**, Michael Xiao\*, Rebecca Barter\*, Omer Ronen, Boyu Fan, Bin Yu
+  Venue: In submission to the **Proceedings of the National Academy of Sciences (PNAS)**
+  
 * [SPEX: Scaling Feature Interaction Explanations for LLMs](https://arxiv.org/abs/2502.13870)<br>
 Justin Kang\*, Landon Butler\*, **Abhineet Agarwal<sup>*</sup>**, Yigit Erginbas, Ramtin Pedarsani, Kannan Ramchandran, Bin Yu 
   
 * [Multi-Armed Bandits with Network Interference](https://arxiv.org/abs/2405.18621)<br>
   **Abhineet Agarwal**, Anish Agarwal, Lorenzo Masoero, Justin Whitehouse. \
   Venue: **NeurIPS, 2024**
-
-* Tree Transfomers: Combining Tree-Based Models with Mixture of Experts and Transformers for Improved Accuracy and Inference Cost<br>
-  **Abhineet Agarwal**, Bin Yu (Link Forthcoming) \
-  Venue: In Submission to **Journal of Machine Learning Research (JMLR), 2024**
 
 * [ED-Copilot: Reduce Emergency Wait Time with Language Model Diagnostic Assistance](https://arxiv.org/pdf/2402.13448)<br>
   Liwen Sun, **Abhineet Agarwal**, Aaron Kornblith, Bin Yu, Chenyan Xiong. \
