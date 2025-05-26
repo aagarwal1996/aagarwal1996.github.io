@@ -9,7 +9,7 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 
 
 
-* ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs (Link Forthcoming)<br>
+* [ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs](https://arxiv.org/abs/2505.17495)<br>
  Landon Butler\*, **Abhineet Agarwal<sup>*</sup>**, Justin Kang\*, Yigit Erginbas, Bin Yu, Kannan Ramchandran
 
 * [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Franework](https://arxiv.org/abs/2505.08784)<br>
